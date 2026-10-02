@@ -41,3 +41,15 @@ body {
     width: 70px;
   }
 }
+
+@media (max-width: 500px) {
+  .Main {
+    font-size: 7px;
+    gap: 3vw;
+    top: -15px;
+  }
+
+  .logo-img {
+    width: 40px;
+  }
+}
